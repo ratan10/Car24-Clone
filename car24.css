@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color:#eaeff3 ;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #111010;
+    text-align: center;
+    padding: 9px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    float: right;
+  }
+
+small{
+    color: rgb(165, 158, 158);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+img{
+    
+    width: 6%;
+    height: 6%;
+    margin: 1%;
+}
+
+a{
+    float: right;
+   text-decoration: none;
+   color: #111010;
+   font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+hr{
+    box-shadow: #111010;
+    margin-top: -1% ;
+    background-color: antiquewhite;
+}
+
+.image{
+    float: right;
+   max-height: 80px;
+    width: 200%;
+    height: 200%;
+}
+
+.head{
+    margin: 1%;
+    padding: 1%;
+}
+
+.line{
+    width: 10%;
+    height: 10%;
+   float: left;
+  margin-right: -5%;
+   color: darkorange;
+
+}
